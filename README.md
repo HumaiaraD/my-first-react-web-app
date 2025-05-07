@@ -1,17 +1,12 @@
 <<<<<<< HEAD
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive React-based landing page created as a practice project while following a YouTube tutorial. The project features custom GSAP animations, a hero video, and three unique illustrations to showcase interactive UI elements. While inspired by a tutorial, all assets — including the animation and visuals — are original, making this a personalized and hands-on learning experience. The goal was to deepen my understanding of React, animation libraries, and front-end interactivity.
 
-Currently, two official plugins are available:
+While I am still figuring out basic of Reacts js, this practice project and developed my basic understanding of React. So far liking it because of how organising it can be when it comes to multiple components which were sectioned off in HTML. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠 Current issues and areas for improvement:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# my-first-react-web-app
->>>>>>> 95c3032c7899b3d35a6d2acf5a581c5c1489515f
-# my-first-react-web-app
+The illustrations occasionally glitch or flicker, likely due to animation timing or rendering issues.
+The “See Video” button currently doesn't trigger video playback — the click handler or video controls need to be fixed or implemented properly.
+This project helped me practice React fundamentals, animation integration, and UI responsiveness — with plans to iterate and refine further.
