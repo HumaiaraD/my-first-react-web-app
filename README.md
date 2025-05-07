@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite
 
 This is a responsive React-based landing page created as a practice project while following a YouTube tutorial. The project features custom GSAP animations, a hero video, and three unique illustrations to showcase interactive UI elements. While inspired by a tutorial, all assets — including the animation and visuals — are original, making this a personalized and hands-on learning experience. The goal was to deepen my understanding of React, animation libraries, and front-end interactivity.
